@@ -6,6 +6,6 @@ Autolib wishes to expand to the European region and beyond and as part of their 
 
 The Data Science team will conduct research and provide recommendations on the strategy to distribute their resources by responding to the following claims:
 
-On a given weekday, the average number of vehicles (BlueCars, Utilib and Utilib_14) taken is more than the average number of vehicles being returned.
-On a given day, the number of BlueCars taken is more than the total combined number of Utilib and Utilib_14 cars.
-The number of vehicles taken in postal code 75015 is equal to the number of vehicles taken in postal code 75017.
+1. On a given weekday, the average number of vehicles (BlueCars, Utilib and Utilib_14) taken is more than the average number of vehicles being returned.
+2. On a given weekday, the number of BlueCars taken is more than the total combined number of Utilib and Utilib_14 cars.
+3. The number of vehicles taken in postal code 75015 is equal to the number of vehicles taken in postal code 75017.
